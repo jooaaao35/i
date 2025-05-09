@@ -18,7 +18,7 @@ h1 {
 }
 
 /* Estilo para o primeiro parágrafo */
-strong {
+.destaque {
   font-size: 18px;
   color: #007bff;
   line-height: 1.6;
