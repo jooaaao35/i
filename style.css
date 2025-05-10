@@ -18,6 +18,14 @@ h1 {
 }
 
 /* Estilo para o primeiro parágrafo */
+strong {
+  font-size: 18px;
+  color: #007bff;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* Estilo para o primeiro parágrafo */
 .destaque {
   font-size: 18px;
   color: #ff0000;
@@ -26,7 +34,7 @@ h1 {
 }
 
 /* Estilo para o segundo parágrafo */
-.strong {
+.paragrafo-dois {
   font-size: 18px;
   color: #007bff;
   line-height: 1.6;
